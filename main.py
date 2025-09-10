@@ -1,5 +1,5 @@
 import tkinter as tk
-
+print("hola mundo")
 def calcular_temperatura():
     """
     Obtiene el valor de la entrada, lo convierte y actualiza la salida.
